@@ -1,0 +1,39 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    width: 400px;
+}
+
+body {
+    background-color: #016D29;
+}
+
+h1 {
+    margin: 30px;
+    color: #F3C620;
+    font-family: 'Cute Font', sans-serif;
+    font-size: 5em;
+}
+
+p {
+    font-size: 2.5rem;
+    color: #F3C620;
+    font-family: 'Cute Font', sans-serif;
+}
+
+img {
+    width: 65%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Cute Font', sans-serif;
+}
